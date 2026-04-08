@@ -1,0 +1,5 @@
+{
+  "name": "SIGMA Buol - Komunitas Matematika SMP",
+  "description": "Sistem Informasi Komunitas Guru Matematika SMP Kabupaten Buol. Pemetaan sekolah, profil guru, dan pusat sumber belajar digital.",
+  "requestFramePermissions": ["geolocation"]
+}
